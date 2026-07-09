@@ -856,6 +856,8 @@ Immediately highlights synchronization problems before purchasing decisions rely
 | Recommended Purchase Quantity | Rounded to MOQ | Automatically adjusted |
 | Synchronization Gap | Must equal zero | INVESTIGATE status displayed |
 
+</details>
+
 ---
 
 ## Other Tools in This Series
