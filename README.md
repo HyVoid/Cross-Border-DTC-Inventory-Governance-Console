@@ -11,8 +11,7 @@
 
 > ## ✅ No signup. No installation. Free.
 >
-> 🌐 **Open in Browser**  
-> *(HTML Live Version – Coming Soon)*
+> 🌐 **Open in Browser** → [*HTML Live Version*](https://hyvoid.github.io/Cross-Border-DTC-Inventory-Governance-Console/)
 >
 > 📥 **Download Excel Version**  
 > *(GitHub Release / Gumroad Download)*
