@@ -18,24 +18,6 @@
 
 ---
 
-# Screenshots
-
-### Browser Version
-
-<!-- screenshot: browser version -->
-
-> Displays demand cleansing, purchase recommendations, pre-order liabilities, and inventory allocation in a browser without requiring Excel.
-
----
-
-### Excel Version
-
-<!-- screenshot: excel version -->
-
-> Complete workbook including data import sheets, analytical engine, reconciliation, purchasing recommendations, and executive dashboard.
-
----
-
 # What It Helps You Track
 
 Instead of looking at disconnected reports from Shopify, Inventory Planner, and spreadsheets, this console brings the operational signals together into one decision framework.
