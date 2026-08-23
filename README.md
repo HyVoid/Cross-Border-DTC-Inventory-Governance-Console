@@ -9,7 +9,9 @@
 
 **Turn noisy Shopify order data into purchasing decisions in minutes—directly in a browser or Excel workbook, with no signup, no installation, and no recurring subscription.**
 
-> ## ✅ No signup. No installation. Free.
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [*HTML Live Version*](https://hyvoid.github.io/Cross-Border-DTC-Inventory-Governance-Console/)
 >
