@@ -16,7 +16,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 > 🌐 **Open in Browser** → [*HTML Live Version*](https://hyvoid.github.io/Cross-Border-DTC-Inventory-Governance-Console/)
 >
 > 📥 **Download Excel Version**  
-> *(GitHub Release / Gumroad Download)*
+> *(GitHub Release / [Website](https://www.theseusworkshop.com/) Download)*
 
 ---
 
@@ -854,7 +854,7 @@ These workbooks follow the same design philosophy: lightweight decision-support 
 - **Coffee Shop Operations Audit Toolkit** — Store performance review and operational compliance analysis.
 - **Project Management & Progress Billing Console** — Milestone tracking, invoicing, and budget control.
 
-More analytical workbooks will be published through the GitHub repository and Gumroad download library.
+More analytical workbooks will be published through the GitHub repository and our [Website](https://www.theseusworkshop.com/).
 
 ---
 
