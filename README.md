@@ -1,7 +1,7 @@
-# 🌍 English | [简体中文](README.zh-CN.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Cross-Border DTC Inventory Governance Console
-### Demand Signal Cleansing, Pre-order Liability Control, and Purchase Planning for Shopify-Based Brands
+## Demand Signal Cleansing, Pre-order Liability Control, and Purchase Planning for Shopify-Based Brands
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Browser%20%7C%20Excel-success)
@@ -20,7 +20,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 
 ---
 
-# What It Helps You Track
+## What It Helps You Track
 
 Instead of looking at disconnected reports from Shopify, Inventory Planner, and spreadsheets, this console brings the operational signals together into one decision framework.
 
@@ -35,7 +35,7 @@ It makes it possible to see:
 
 ---
 
-# Quick Start Workflow
+## Quick Start Workflow
 
 The workbook is designed around a **configure once, refresh regularly** workflow rather than constant spreadsheet maintenance.
 
@@ -96,7 +96,7 @@ There is no workbook rebuilding, formula copying, or structural maintenance.
 
 ---
 
-# Why I Built This
+## Why I Built This
 
 Many inventory planning problems are not caused by poor forecasting algorithms.
 
@@ -149,7 +149,7 @@ That is a fundamentally different decision—not because the formulas changed, b
 
 ---
 
-# Common Inventory Planning Problems This Solves
+## Common Inventory Planning Problems This Solves
 
 | Problem | Without This Tool | With This Tool |
 |----------|-------------------|----------------|
@@ -162,7 +162,7 @@ That is a fundamentally different decision—not because the formulas changed, b
 
 ---
 
-# Who This Is For
+## Who This Is For
 
 This project is designed for organizations managing inventory decisions across multiple markets where demand signals are influenced by pre-orders, returns, and international fulfilment.
 
@@ -185,7 +185,7 @@ No spreadsheet expertise is required. Open the browser version or Excel workbook
 
 ---
 
-# About
+## About
 
 I build lightweight analytical workbooks for business situations where there are simply too many moving parts to reason through mentally.
 
@@ -200,7 +200,7 @@ The **Cross-Border DTC Inventory Governance Console** is one example of this app
 
 ---
 
-# Workbook Architecture
+## Workbook Architecture
 
 The workbook follows a strict **Input → Cleansing → Decision → Validation → Output** architecture. Each worksheet has a single responsibility, making the analytical process transparent and auditable.
 
@@ -258,7 +258,7 @@ That separation allows every purchasing recommendation to be traced back to its 
 
 ---
 
-# Three Analytical Traps That Catch Even Experienced Inventory Planners
+## Three Analytical Traps That Catch Even Experienced Inventory Planners
 
 ---
 
@@ -485,7 +485,7 @@ Implemented using LET(), XLOOKUP(), SUMIFS(), and dynamic arrays.
 
 ---
 
-# Example Scenario
+## Example Scenario
 
 A UK-based fashion brand launches a new jacket across four Shopify storefronts serving the UK, US, EU, and Australia.
 
