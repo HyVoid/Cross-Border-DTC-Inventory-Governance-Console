@@ -847,12 +847,12 @@ Immediately highlights synchronization problems before purchasing decisions rely
 
 These workbooks follow the same design philosophy: lightweight decision-support systems built for recurring operational problems rather than enterprise software replacement.
 
-- **Inventory Forecasting & Reorder Planning** — Demand forecasting, reorder point calculation, and inventory risk analysis.
-- **Construction Estimating System** — Estimating assemblies, cost libraries, bid preparation, and project budgeting.
-- **Marketing Budget Allocation Simulator** — Scenario planning for multi-channel marketing investment.
-- **Multi-Currency Trade Finance Dashboard** — Cross-border financial reporting and profitability analysis.
-- **Coffee Shop Operations Audit Toolkit** — Store performance review and operational compliance analysis.
-- **Project Management & Progress Billing Console** — Milestone tracking, invoicing, and budget control.
+- **[MULTI-NODE-INVENTORY-RECONCILIATION](https://github.com/HyVoid/MULTI-NODE-INVENTORY-RECONCILIATION)** — Why do locations disagree on inventory positions? — Reconcile inventory records across multiple operating nodes to identify discrepancies.
+- **[inventory-planning-reorder-point-excel](https://github.com/HyVoid/inventory-planning-reorder-point-excel)** — What purchasing decision should be made today given demand trends lead times and cash constraints? — Forecast inventory requirements by combining demand signals lead-time risk purchasing recommendations and working capital exposure.
+- **[Retail-SKU-Concentration-Assortment-Diagnostic-Console](https://github.com/HyVoid/Retail-SKU-Concentration-Assortment-Diagnostic-Console)** — Which products dominate inventory risk or dilute assortment quality? — Identify SKU concentration risk and assortment efficiency across retail product catalogs.
+- **[Retail-and-Maquila-Inventory-Ledger](https://github.com/HyVoid/Retail-and-Maquila-Inventory-Ledger)** — Where is inventory moving across retail and maquila operations? — Track inventory movement processing loss and stock exposure across factories warehouses and stores.
+- **[Universal-3D-Cargo-Loading-Optimization-Simulator](https://github.com/HyVoid/Universal-3D-Cargo-Loading-Optimization-Simulator)** — How should cargo be loaded to reduce wasted space and operational friction? — Simulate 3D cargo loading configurations to maximize container capacity and shipping efficiency.
+- **[inventory-allocation-fulfillment-excel](https://github.com/HyVoid/inventory-allocation-fulfillment-excel)** — Can each customer order actually be delivered on time given physical stock, reservations, in-transit containers, and open POs across all our locations? — Calculate available-to-promise quantities and net procurement requirements by reconciling physical stock, order reservations, in-transit inventory, and open purchase orders across multiple locations.
 
 More analytical workbooks will be published through the GitHub repository and our [Website](https://www.theseusworkshop.com/).
 
